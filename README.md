@@ -1,4 +1,4 @@
-# inventory_course
+# Facafi_Inventory
 
 A new Flutter project.
 
